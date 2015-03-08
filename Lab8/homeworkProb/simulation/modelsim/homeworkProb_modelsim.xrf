@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/ScottN/Google Drive/SchoolWork/UTA/2014Fall/CSE 2441/Labs/Lab8/homeworkProb/homeworkProb.bdf
+source_file = 1, C:/Users/ScottN/Google Drive/SchoolWork/UTA/2014Fall/CSE 2441/Labs/Lab8/homeworkProb/Waveform.vwf
+source_file = 1, C:/Users/ScottN/Google Drive/SchoolWork/UTA/2014Fall/CSE 2441/Labs/Lab8/homeworkProb/db/homeworkProb.cbx.xml
+design_name = homeworkProb
+instance = comp, \Clock~I , Clock, homeworkProb, 1
+instance = comp, \inst4~0 , inst4~0, homeworkProb, 1
+instance = comp, \Clear~I , Clear, homeworkProb, 1
+instance = comp, \X~I , X, homeworkProb, 1
+instance = comp, \inst2~0 , inst2~0, homeworkProb, 1
+instance = comp, \Z~I , Z, homeworkProb, 1
+instance = comp, \Y1~I , Y1, homeworkProb, 1
+instance = comp, \Y2~I , Y2, homeworkProb, 1

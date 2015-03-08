@@ -1,0 +1,15 @@
+//Behavioral description of four-bit binary counter
+module fourbitup(CLK,CLR,COUNT);
+	input CLK, CLEAR;
+	output reg [3:0] COUNT;
+	always @ (posedge CLK, negedge CLEAR)
+	  if(CLEAR==0) count <=4'b0; //count is loaded with binary 0000
+	  else
+	    begin
+		  if(COUNT==4b'111)
+		  COUT<= 4b'0; //Once count hits F cycle back to zero
+		  else
+		    COUNT<=COUNT+ 1'b1; //increment count by 1
+		end
+	endmodule
+	

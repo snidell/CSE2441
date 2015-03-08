@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/ScottN/Google Drive/SchoolWork/UTA/2014Fall/CSE 2441/Labs/Lab6/FourBitTwistedRingCounter/FourBitTwistedRingCounter.bdf
+source_file = 1, C:/Users/ScottN/Google Drive/SchoolWork/UTA/2014Fall/CSE 2441/Labs/Lab6/FourBitTwistedRingCounter/Waveform.vwf
+source_file = 1, C:/Users/ScottN/Google Drive/SchoolWork/UTA/2014Fall/CSE 2441/Labs/Lab6/FourBitTwistedRingCounter/db/FourBitTwistedRingCounter.cbx.xml
+design_name = FourBitTwistedRingCounter
+instance = comp, \Shift~I , Shift, FourBitTwistedRingCounter, 1
+instance = comp, \Shift~clkctrl , Shift~clkctrl, FourBitTwistedRingCounter, 1
+instance = comp, \inst1~feeder , inst1~feeder, FourBitTwistedRingCounter, 1
+instance = comp, \Clear~I , Clear, FourBitTwistedRingCounter, 1
+instance = comp, \Clear~clkctrl , Clear~clkctrl, FourBitTwistedRingCounter, 1
+instance = comp, \inst2~feeder , inst2~feeder, FourBitTwistedRingCounter, 1
+instance = comp, \inst3~feeder , inst3~feeder, FourBitTwistedRingCounter, 1
+instance = comp, \inst~0 , inst~0, FourBitTwistedRingCounter, 1
+instance = comp, \QA~I , QA, FourBitTwistedRingCounter, 1
+instance = comp, \QB~I , QB, FourBitTwistedRingCounter, 1
+instance = comp, \QC~I , QC, FourBitTwistedRingCounter, 1
+instance = comp, \QD~I , QD, FourBitTwistedRingCounter, 1

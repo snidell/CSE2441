@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/ScottN/Google Drive/SchoolWork/UTA/2014Fall/CSE 2441/Labs/Lab8/slidesProb/slide10pointone.bdf
+source_file = 1, C:/Users/ScottN/Google Drive/SchoolWork/UTA/2014Fall/CSE 2441/Labs/Lab8/slidesProb/Waveform.vwf
+source_file = 1, C:/Users/ScottN/Google Drive/SchoolWork/UTA/2014Fall/CSE 2441/Labs/Lab8/slidesProb/db/slide10pointone.cbx.xml
+design_name = slide10pointone
+instance = comp, \Clock~I , Clock, slide10pointone, 1
+instance = comp, \X~I , X, slide10pointone, 1
+instance = comp, \JK2~0 , JK2~0, slide10pointone, 1
+instance = comp, \Clear~I , Clear, slide10pointone, 1
+instance = comp, \JK1~0 , JK1~0, slide10pointone, 1
+instance = comp, \Z1~I , Z1, slide10pointone, 1
+instance = comp, \Z2~I , Z2, slide10pointone, 1
+instance = comp, \Y1~I , Y1, slide10pointone, 1
+instance = comp, \Y2~I , Y2, slide10pointone, 1

@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ScottN\Google Drive\SchoolWork\UTA\2014Fall\CSE 2441\Labs\Lab9\Opdecoder\simulation\qsim
+vopDecoder
+Z1 In3GkA?EQ<^h7XTgzV;UL`0
+Z2 VcRbjBoOY5iO<Kz4kYjD4V3
+Z3 dC:\Users\ScottN\Google Drive\SchoolWork\UTA\2014Fall\CSE 2441\Labs\Lab9\Opdecoder\simulation\qsim
+Z4 w1415512798
+Z5 8opDecoder.vo
+Z6 FopDecoder.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 nop@decoder
+!i10b 1
+Z10 !s100 HCSW9?;c5^:]Cn6bQL5hB2
+!s85 0
+Z11 !s108 1415512799.879000
+Z12 !s107 opDecoder.vo|
+Z13 !s90 -work|work|opDecoder.vo|
+!s101 -O0
+vopDecoder_vlg_check_tst
+!i10b 1
+!s100 zJQ38F7z`m89UYALBT5Q@0
+Ik<c7_d6FeIUN?YVLff4Dn1
+Vn[maTYW<G@6>OBMg1I6Aj2
+R3
+Z14 w1415512797
+Z15 8opDecoder.vt
+Z16 FopDecoder.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1415512799.998000
+Z18 !s107 opDecoder.vt|
+Z19 !s90 -work|work|opDecoder.vt|
+!s101 -O0
+R8
+nop@decoder_vlg_check_tst
+vopDecoder_vlg_sample_tst
+!i10b 1
+!s100 HoA71j??MYbRWEjFXB`oc3
+I3kE@MHNc<IFnR>a>F__@_0
+VJ_JT2?fHI]1<T8Ba?2TKV0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+nop@decoder_vlg_sample_tst
+vopDecoder_vlg_vec_tst
+!i10b 1
+!s100 M5d5J4Wg[_iRS=CSbN1Di3
+I5b9k6ejPhAOgcGz?c4oiB0
+VUL^J89f3WLU92N3o7i5R?0
+R3
+R14
+R15
+R16
+L0 428
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+nop@decoder_vlg_vec_tst

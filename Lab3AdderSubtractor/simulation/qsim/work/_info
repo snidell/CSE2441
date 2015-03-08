@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ScottN\Google Drive\SchoolWork\UTA\Fall 2014\CSE 2441\Lab3AdderSubtractor\simulation\qsim
+vLab3AdderSubtractor
+Z1 !s100 fKK3V^@8icO4[:29Wg^HL1
+Z2 Icz1zCMm1GT]h_R6LJgB4W0
+Z3 VI]2IFTJ^6nVQjz;8dc_A_3
+Z4 dC:\Users\ScottN\Google Drive\SchoolWork\UTA\Fall 2014\CSE 2441\Labs\Lab3AdderSubtractor\simulation\qsim
+Z5 w1413514916
+Z6 8Lab3AdderSubtractor.vo
+Z7 FLab3AdderSubtractor.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Lab3AdderSubtractor.vo|
+Z10 o-work work -O0
+Z11 n@lab3@adder@subtractor
+!i10b 1
+!s85 0
+Z12 !s108 1413514918.981000
+Z13 !s107 Lab3AdderSubtractor.vo|
+!s101 -O0
+vLab3AdderSubtractor_vlg_check_tst
+!i10b 1
+Z14 !s100 J9DR7Q9HAL_Cj<:0T:d=L2
+Z15 I9W97R8L^SjlA3`BOfZ5=J0
+Z16 V:Vnn:6TSV9_MW7_EQi^j<0
+R4
+Z17 w1413514915
+Z18 8Lab3AdderSubtractor.vt
+Z19 FLab3AdderSubtractor.vt
+L0 73
+R8
+r1
+!s85 0
+31
+Z20 !s108 1413514919.168000
+Z21 !s107 Lab3AdderSubtractor.vt|
+Z22 !s90 -work|work|Lab3AdderSubtractor.vt|
+!s101 -O0
+R10
+Z23 n@lab3@adder@subtractor_vlg_check_tst
+vLab3AdderSubtractor_vlg_sample_tst
+!i10b 1
+Z24 !s100 L=Df;3nRzdlozBUzCoWdo0
+Z25 I_?bN[dd;6o1i3VdLJN??G3
+Z26 V]PUfCf5Fa1<Km^V<I<=W?1
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@lab3@adder@subtractor_vlg_sample_tst
+vLab3AdderSubtractor_vlg_vec_tst
+!i10b 1
+Z28 !s100 WT3^n2i^alb_S`YPRFfAg1
+Z29 I:S[U2]CRg^G3M=gb]G5893
+Z30 VnEnQR>j]h;GFA<o?;Tc;]1
+R4
+R17
+R18
+R19
+Z31 L0 286
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@lab3@adder@subtractor_vlg_vec_tst

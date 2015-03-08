@@ -1,0 +1,14 @@
+|slide10pointone
+Z1 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst2.IN0
+X => inst6.IN0
+X => inst3.IN0
+Clear => JK1.ACLR
+Clear => JK2.ACLR
+Clock => JK2.CLK
+Clock => JK1.CLK
+Z2 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+Y1 <= JK1.DB_MAX_OUTPUT_PORT_TYPE
+Y2 <= JK2.DB_MAX_OUTPUT_PORT_TYPE
+
+

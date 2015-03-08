@@ -1,0 +1,59 @@
+|fourbitdouble
+A <= twosegment:inst1.a
+CLK => fourbitup:inst.CLK
+CLEAR => fourbitup:inst.CLEAR
+B <= twosegment:inst1.b
+C <= twosegment:inst1.c
+D <= twosegment:inst1.d
+E <= twosegment:inst1.e
+F <= twosegment:inst1.f
+G <= twosegment:inst1.g
+W <= COUNT[3].DB_MAX_OUTPUT_PORT_TYPE
+X <= COUNT[2].DB_MAX_OUTPUT_PORT_TYPE
+Y <= COUNT[1].DB_MAX_OUTPUT_PORT_TYPE
+Z <= COUNT[0].DB_MAX_OUTPUT_PORT_TYPE
+H <= twosegment:inst1.h
+I <= twosegment:inst1.i
+J <= twosegment:inst1.j
+K <= twosegment:inst1.k
+L <= twosegment:inst1.l
+M <= twosegment:inst1.m
+N <= twosegment:inst1.n
+
+
+|fourbitdouble|twosegment:inst1
+w => Decoder0.IN0
+x => Decoder0.IN1
+y => Decoder0.IN2
+z => Decoder0.IN3
+a <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+b <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+d <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+e <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+f <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+g <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+h <= <VCC>
+i <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+j <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+k <= <VCC>
+l <= <VCC>
+m <= <VCC>
+n <= <VCC>
+
+
+|fourbitdouble|fourbitup:inst
+CLK => COUNT[0]~reg0.CLK
+CLK => COUNT[1]~reg0.CLK
+CLK => COUNT[2]~reg0.CLK
+CLK => COUNT[3]~reg0.CLK
+CLEAR => COUNT[0]~reg0.ACLR
+CLEAR => COUNT[1]~reg0.ACLR
+CLEAR => COUNT[2]~reg0.ACLR
+CLEAR => COUNT[3]~reg0.ACLR
+COUNT[0] <= COUNT[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+COUNT[1] <= COUNT[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+COUNT[2] <= COUNT[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+COUNT[3] <= COUNT[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

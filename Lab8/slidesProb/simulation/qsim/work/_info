@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ScottN\Google Drive\SchoolWork\UTA\2014Fall\CSE 2441\Labs\Lab8\slidesProb\simulation\qsim
+vslide10pointone
+Z1 ILW9UaGQiMUYBM;0QY?:]X1
+Z2 VFNO9D:T>7b59kz3`Tco7[3
+Z3 dC:\Users\ScottN\Google Drive\SchoolWork\UTA\2014Fall\CSE 2441\Labs\Lab8\slidesProb\simulation\qsim
+Z4 w1414721595
+Z5 8slide10pointone.vo
+Z6 Fslide10pointone.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 D5D0bzD6QUe7HihLaRIId3
+!s85 0
+Z10 !s108 1414721596.494000
+Z11 !s107 slide10pointone.vo|
+Z12 !s90 -work|work|slide10pointone.vo|
+!s101 -O0
+vslide10pointone_vlg_check_tst
+!i10b 1
+!s100 ?XPGjhz9fdcY[A`1cI>K62
+IKfSLUcI>edA9c2f4NOO@F1
+V>>XCkD?^ECPPLl;Qo;GN91
+R3
+Z13 w1414721594
+Z14 8slide10pointone.vt
+Z15 Fslide10pointone.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1414721596.650000
+Z17 !s107 slide10pointone.vt|
+Z18 !s90 -work|work|slide10pointone.vt|
+!s101 -O0
+R8
+vslide10pointone_vlg_sample_tst
+!i10b 1
+!s100 cmZP0@oLN?bL0Y^<^iCdX0
+Ia6WfKZ0aVB2?GIeCf1[Qd2
+V<i0_CdfTeQ0zL8Bf>bFC>2
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vslide10pointone_vlg_vec_tst
+!i10b 1
+!s100 lfd?VkHU64EFJ=M=h23;J1
+IYgE1<eK=Pn;JJSALFcm`i0
+VaTjZlDYlQ[o^d;@IMJH?`2
+R3
+R13
+R14
+R15
+L0 183
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

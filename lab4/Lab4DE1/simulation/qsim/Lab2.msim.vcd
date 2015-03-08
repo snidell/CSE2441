@@ -1,0 +1,134 @@
+$comment
+	File created using the following command:
+		vcd file Lab2.msim.vcd -direction
+$end
+$date
+	Fri Sep 26 09:43:10 2014
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module Lab2_vlg_vec_tst $end
+$var reg 1 ! A $end
+$var reg 1 " B $end
+$var reg 1 # C $end
+$var reg 1 $ D $end
+$var wire 1 % f $end
+$var wire 1 & sampler $end
+$scope module i1 $end
+$var wire 1 ' gnd $end
+$var wire 1 ( vcc $end
+$var wire 1 ) unknown $end
+$var tri1 1 * devclrn $end
+$var tri1 1 + devpor $end
+$var tri1 1 , devoe $end
+$var wire 1 - C~combout $end
+$var wire 1 . B~combout $end
+$var wire 1 / inst3~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+x&
+0'
+1(
+x)
+1*
+1+
+1,
+0-
+0.
+0/
+$end
+#50000
+1$
+0&
+#100000
+1#
+0$
+1-
+1&
+1/
+1%
+#150000
+1$
+0&
+#200000
+1"
+0#
+0$
+1.
+0-
+1&
+#250000
+1$
+0&
+#300000
+1#
+0$
+1-
+1&
+#350000
+1$
+0&
+#400000
+1!
+0"
+0#
+0$
+0.
+0-
+1&
+0/
+0%
+#450000
+1$
+0&
+#500000
+1#
+0$
+1-
+1&
+1/
+1%
+#550000
+1$
+0&
+#600000
+1"
+0#
+0$
+1.
+0-
+1&
+#650000
+1$
+0&
+#700000
+1#
+0$
+1-
+1&
+#750000
+1$
+0&
+#800000
+0!
+0"
+0#
+0$
+0.
+0-
+1&
+0/
+0%
+#1000000

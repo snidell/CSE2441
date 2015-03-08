@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ScottN\Google Drive\SchoolWork\UTA\Fall 2014\CSE 2441\Labs\Lab6\FourBitTwistedRingCounter\simulation\qsim
+vFourBitTwistedRingCounter
+Z1 !s100 A>6D^I1iCXbKazPdoYUiW3
+Z2 IcOjCeSIj77LFoTkjXO52V2
+Z3 VSj^E4K6o:bTi4_8h7GliK0
+Z4 dC:\Users\ScottN\Google Drive\SchoolWork\UTA\2014Fall\CSE 2441\Labs\Lab6\FourBitTwistedRingCounter\simulation\qsim
+Z5 w1415602986
+Z6 8FourBitTwistedRingCounter.vo
+Z7 FFourBitTwistedRingCounter.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|FourBitTwistedRingCounter.vo|
+Z10 o-work work -O0
+Z11 n@four@bit@twisted@ring@counter
+!i10b 1
+!s85 0
+Z12 !s108 1415602987.332000
+Z13 !s107 FourBitTwistedRingCounter.vo|
+!s101 -O0
+vFourBitTwistedRingCounter_vlg_check_tst
+!i10b 1
+Z14 !s100 g`L=zkS;]^H`hgcJ0JP0C1
+Z15 I?0Dfd^P^A4dfKUMoD9bno0
+Z16 Vm6Ql]mZG6ELl8@[1^2HI91
+R4
+Z17 w1415602985
+Z18 8FourBitTwistedRingCounter.vt
+Z19 FFourBitTwistedRingCounter.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z20 !s108 1415602987.554000
+Z21 !s107 FourBitTwistedRingCounter.vt|
+Z22 !s90 -work|work|FourBitTwistedRingCounter.vt|
+!s101 -O0
+R10
+Z23 n@four@bit@twisted@ring@counter_vlg_check_tst
+vFourBitTwistedRingCounter_vlg_sample_tst
+!i10b 1
+Z24 !s100 HaU8XZeV:<4FA?@<z;Y@F3
+Z25 I5LFA@[CEf]SzjX;9<[?MU1
+Z26 V:`JR^aC<34Uh282Kf>gE_3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@four@bit@twisted@ring@counter_vlg_sample_tst
+vFourBitTwistedRingCounter_vlg_vec_tst
+!i10b 1
+Z28 !s100 ET81QZ?`Vd=T[2G40hX>f3
+Z29 IYcKICGnbKLDlVYOXib70C2
+Z30 V_14HOaF9;_Ffa>n@1GSAd0
+R4
+R17
+R18
+R19
+Z31 L0 235
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@four@bit@twisted@ring@counter_vlg_vec_tst

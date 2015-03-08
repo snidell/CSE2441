@@ -1,0 +1,11 @@
+|homeworkProb
+Z <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+Clear => inst3.ACLR
+Clear => inst4.ACLR
+Clock => inst3.CLK
+Clock => inst4.CLK
+X => inst.IN0
+Y1 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+Y2 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+

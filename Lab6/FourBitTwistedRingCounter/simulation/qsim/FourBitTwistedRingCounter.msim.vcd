@@ -1,0 +1,191 @@
+$comment
+	File created using the following command:
+		vcd file FourBitTwistedRingCounter.msim.vcd -direction
+$end
+$date
+	Mon Nov 10 01:03:08 2014
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module FourBitTwistedRingCounter_vlg_vec_tst $end
+$var reg 1 ! Clear $end
+$var reg 1 " Shift $end
+$var wire 1 # QA $end
+$var wire 1 $ QB $end
+$var wire 1 % QC $end
+$var wire 1 & QD $end
+$var wire 1 ' sampler $end
+$scope module i1 $end
+$var wire 1 ( gnd $end
+$var wire 1 ) vcc $end
+$var wire 1 * unknown $end
+$var tri1 1 + devclrn $end
+$var tri1 1 , devpor $end
+$var tri1 1 - devoe $end
+$var wire 1 . Shift~combout $end
+$var wire 1 / Shift~clkctrl_outclk $end
+$var wire 1 0 inst1~feeder_combout $end
+$var wire 1 1 Clear~combout $end
+$var wire 1 2 Clear~clkctrl_outclk $end
+$var wire 1 3 inst1~regout $end
+$var wire 1 4 inst2~feeder_combout $end
+$var wire 1 5 inst2~regout $end
+$var wire 1 6 inst3~feeder_combout $end
+$var wire 1 7 inst3~regout $end
+$var wire 1 8 inst~0_combout $end
+$var wire 1 9 inst~regout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+0"
+0#
+0$
+0%
+0&
+x'
+0(
+1)
+x*
+1+
+1,
+1-
+0.
+0/
+00
+11
+12
+03
+04
+05
+06
+07
+18
+09
+$end
+#40000
+1"
+1.
+1/
+0'
+19
+10
+1#
+#80000
+0"
+0.
+0/
+1'
+#120000
+1"
+1.
+1/
+0'
+13
+14
+1$
+#160000
+0"
+0.
+0/
+1'
+#200000
+1"
+1.
+1/
+0'
+15
+16
+1%
+#240000
+0"
+0.
+0/
+1'
+#280000
+1"
+1.
+1/
+0'
+17
+08
+1&
+#320000
+0"
+0.
+0/
+1'
+#360000
+1"
+1.
+1/
+0'
+09
+00
+0#
+#400000
+0"
+0.
+0/
+1'
+#440000
+1"
+1.
+1/
+0'
+03
+04
+0$
+#480000
+0"
+0.
+0/
+1'
+#520000
+1"
+1.
+1/
+0'
+05
+06
+0%
+#560000
+0"
+0.
+0/
+1'
+#600000
+1"
+1.
+1/
+0'
+07
+18
+0&
+#640000
+0"
+0.
+0/
+1'
+#660000
+0!
+01
+02
+0'
+#680000
+1"
+1.
+1/
+1'
+#720000
+0"
+0.
+0/
+0'
+#1000000

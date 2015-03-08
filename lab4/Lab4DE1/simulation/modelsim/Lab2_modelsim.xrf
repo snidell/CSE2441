@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/san1465/Desktop/Lab4DE1/Lab2.bdf
+source_file = 1, C:/Users/san1465/Desktop/Lab4DE1/Waveform.vwf
+source_file = 1, C:/Users/san1465/Desktop/Lab4DE1/Waveform1.vwf
+source_file = 1, C:/Users/san1465/Desktop/Lab4DE1/Waveform2.vwf
+source_file = 1, C:/Users/san1465/Desktop/Lab4DE1/Lab4DE1-2.bdf
+source_file = 1, C:/Users/san1465/Desktop/Lab4DE1/WaveFullAdder.vwf
+source_file = 1, C:/Users/san1465/Desktop/Lab4DE1/db/Lab2.cbx.xml
+design_name = \Lab4DE1-2 
+instance = comp, \A~I , A, \Lab4DE1-2 , 1
+instance = comp, \Cin~I , Cin, \Lab4DE1-2 , 1
+instance = comp, \B~I , B, \Lab4DE1-2 , 1
+instance = comp, \inst2~0 , inst2~0, \Lab4DE1-2 , 1
+instance = comp, \inst5~0 , inst5~0, \Lab4DE1-2 , 1
+instance = comp, \Sum~I , Sum, \Lab4DE1-2 , 1
+instance = comp, \Carryout~I , Carryout, \Lab4DE1-2 , 1

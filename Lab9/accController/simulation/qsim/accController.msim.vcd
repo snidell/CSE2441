@@ -1,0 +1,381 @@
+$comment
+	File created using the following command:
+		vcd file accController.msim.vcd -direction
+$end
+$date
+	Sun Nov 09 00:22:00 2014
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module accController_vlg_vec_tst $end
+$var reg 1 ! CLR $end
+$var reg 1 " CLRA $end
+$var reg 1 # INCA $end
+$var reg 1 $ clk $end
+$var wire 1 % C0 $end
+$var wire 1 & C2 $end
+$var wire 1 ' C3 $end
+$var wire 1 ( C4 $end
+$var wire 1 ) C7 $end
+$var wire 1 * C8 $end
+$var wire 1 + C9 $end
+$var wire 1 , C42 $end
+$var wire 1 - sampler $end
+$scope module i1 $end
+$var wire 1 . gnd $end
+$var wire 1 / vcc $end
+$var wire 1 0 unknown $end
+$var tri1 1 1 devclrn $end
+$var tri1 1 2 devpor $end
+$var tri1 1 3 devoe $end
+$var wire 1 4 always0~0_combout $end
+$var wire 1 5 clk~combout $end
+$var wire 1 6 clk~clkctrl_outclk $end
+$var wire 1 7 state.000~feeder_combout $end
+$var wire 1 8 CLR~combout $end
+$var wire 1 9 CLR~clkctrl_outclk $end
+$var wire 1 : state.000~regout $end
+$var wire 1 ; CLRA~combout $end
+$var wire 1 < state.111~0_combout $end
+$var wire 1 = state.111~regout $end
+$var wire 1 > INCA~combout $end
+$var wire 1 ? state~28_combout $end
+$var wire 1 @ state.110~regout $end
+$var wire 1 A state~27_combout $end
+$var wire 1 B state.101~regout $end
+$var wire 1 C state~24_combout $end
+$var wire 1 D state.001~regout $end
+$var wire 1 E state~25_combout $end
+$var wire 1 F state.010~regout $end
+$var wire 1 G state~26_combout $end
+$var wire 1 H state.011~regout $end
+$var wire 1 I state~23_combout $end
+$var wire 1 J state.100~regout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1!
+0"
+0#
+0$
+1%
+0&
+0'
+0(
+0)
+0*
+0+
+0,
+x-
+0.
+1/
+x0
+11
+12
+13
+04
+05
+06
+17
+18
+19
+0:
+0;
+1<
+0=
+0>
+0?
+0@
+0A
+0B
+0C
+0D
+0E
+0F
+0G
+0H
+0I
+0J
+$end
+#20000
+0!
+1"
+08
+1;
+09
+0-
+0<
+14
+1C
+#40000
+1$
+15
+16
+1-
+1D
+1:
+1E
+0C
+1'
+0%
+#80000
+0$
+05
+06
+0-
+#120000
+1$
+15
+16
+1-
+1F
+0D
+1G
+0E
+1(
+0'
+#160000
+0$
+05
+06
+0-
+#200000
+1$
+15
+16
+1-
+1H
+0F
+1I
+0G
+1,
+0(
+#240000
+0$
+05
+06
+0-
+#280000
+1$
+15
+16
+1-
+1J
+0H
+1A
+0I
+1)
+1&
+0,
+#320000
+0$
+05
+06
+0-
+#360000
+1$
+15
+16
+1-
+0J
+1B
+0A
+1C
+0)
+0&
+1*
+#400000
+0$
+05
+06
+0-
+#440000
+1$
+15
+16
+1-
+1D
+0B
+1E
+0C
+1'
+0*
+#460000
+0"
+0;
+0-
+0E
+1<
+04
+#480000
+1!
+0$
+18
+05
+06
+19
+1-
+0D
+0:
+0'
+1%
+#500000
+1#
+0!
+1>
+08
+09
+0-
+0<
+14
+1C
+#520000
+1$
+15
+16
+1-
+1D
+1:
+1E
+0C
+1'
+0%
+#560000
+0$
+05
+06
+0-
+#600000
+1$
+15
+16
+1-
+1F
+0D
+1G
+0E
+1(
+0'
+#640000
+0$
+05
+06
+0-
+#680000
+1$
+15
+16
+1-
+1H
+0F
+1I
+0G
+1,
+0(
+#720000
+0$
+05
+06
+0-
+#760000
+1$
+15
+16
+1-
+1J
+0H
+1?
+0I
+1)
+1&
+0,
+#800000
+0$
+05
+06
+0-
+#840000
+1$
+15
+16
+1-
+0J
+1@
+0?
+1C
+0)
+0&
+1+
+#880000
+0$
+05
+06
+0-
+#920000
+1$
+15
+16
+1-
+1D
+0@
+1E
+0C
+1'
+0+
+#960000
+0#
+0$
+0>
+05
+06
+0-
+0E
+1<
+04
+#1000000
+1$
+15
+16
+1-
+0D
+1=
+z'
+z%
+z&
+z(
+z,
+z)
+z*
+z+
+#1040000
+0$
+05
+06
+0-
+#1080000
+1$
+15
+16
+1-
+#1120000
+0$
+05
+06
+0-
+#1160000
+1$
+15
+16
+1-
+#1200000
+0$
+05
+06
+0-
+#1300000

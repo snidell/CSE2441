@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\san1465\Documents\Lab 2\Adder Project\simulation\qsim
+vLab2Adder
+Z1 IiQGi2X=Rkn2C2_3b2^8Yl2
+Z2 VK8^1;50fl4gI6hieP<B5f2
+Z3 dC:\Users\san1465\Documents\Lab 2\Adder Project\simulation\qsim
+Z4 w1409930780
+Z5 8Lab2Adder.vo
+Z6 FLab2Adder.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@lab2@adder
+!i10b 1
+Z10 !s100 DHjfWZfEGzTHiWnN1adEa3
+!s85 0
+Z11 !s108 1409930781.050000
+Z12 !s107 Lab2Adder.vo|
+Z13 !s90 -work|work|Lab2Adder.vo|
+!s101 -O0
+vLab2Adder_vlg_check_tst
+!i10b 1
+!s100 eXAFDRHO4O71FmXI5LTWX0
+IbYQfde]U]jC5FZPRobKzM1
+VP<ARHgPani@cKieiT2QdF1
+R3
+Z14 w1409930779
+Z15 8Lab2Adder.vt
+Z16 FLab2Adder.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1409930781.299000
+Z18 !s107 Lab2Adder.vt|
+Z19 !s90 -work|work|Lab2Adder.vt|
+!s101 -O0
+R8
+n@lab2@adder_vlg_check_tst
+vLab2Adder_vlg_sample_tst
+!i10b 1
+!s100 l7n]DKFhPgk`4Yoa4Hihg0
+I^a<92P_fBF?>@=ONIFA<j3
+VfOG6Yb7[ThdjgHo@Me8TI1
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@lab2@adder_vlg_sample_tst
+vLab2Adder_vlg_vec_tst
+!i10b 1
+!s100 Od=V=3>mO9JWhWBH6nTQI1
+IH_Y@Dia]JiHmA^eL?T@_c0
+VWUeYn__DC7DzY7<Dd3WI;2
+R3
+R14
+R15
+R16
+L0 183
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@lab2@adder_vlg_vec_tst
